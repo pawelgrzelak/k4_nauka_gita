@@ -7,4 +7,5 @@ functon srednia_wazona(a,b){
 	return 0.1*a+b*0.9;
 }
 
+
 ?>
